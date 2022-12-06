@@ -1,0 +1,56 @@
+
+article div.amenities {
+  margin-top: 40px;
+  width: 100%;
+  padding: 0px;
+}
+article .amenities h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #DDDDDD;
+}
+article .amenities ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+article .amenities ul li {
+  background-repeat: no-repeat;
+  padding: 10px;
+  padding-left: 30px;
+}
+article .amenities ul .tv {
+  background-image: url("../images/icon_tv.png");
+  background-size: 20px;
+  background-position: left;
+}
+article .amenities ul .wifi {
+  background-image: url("../images/icon_wifi.png");
+  background-size: 20px;
+  background-position: left;
+}
+article .amenities ul .pet  {
+  background-image: url("../images/icon_pets.png");
+  background-size: 20px;
+  background-position: left;
+}
+article .reviews h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #DDDDDD;
+}
+article .reviews ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+article .reviews ul li {
+  margin: 0px;
+  padding: 10px 0px;
+}
+article .reviews ul li h3 {
+  margin: 0px;
+  padding: 0px;
+}
+article .reviews ul li p {
+  margin: 0px;
+  padding: 0px;
+}
